@@ -1,0 +1,30 @@
+pra começar
+analisar coluna por coluna
+verificar valores maximos e minimos
+verificar onde ta concentrado os dados
+
+>analise bivariada - comparando uma variável com a outra
+>identificar padroes e destacar aquilo que pode ser bom por estar fora da curva e oq é ruim que ta mt acima do normal
+
+>identificar imovel que ta com preço mt acima ou mt abaixo do que em relaçao aos da mesma regiao
+
+>metrica de sucesso: imóveis que estão abaixo da média, imoveis que estao sendo valorizados em uma regiao, pensar num publico A
+>determinar um orçamento de gasto e idade dos imóveis
+
+>detalhar muito bem pq foram feitas as escolhas
+
+>quais foram os anos/decadas de construção com maior indice de imoveis reformados
+
+Pipeline:
+>identificar lucro dos imoveis vendidos mais de uma vez
+>identificar os imoveis que tiveram lucro
+>identificar o modelo do imovel = quais foram os atributos? localidade, quartos, banheiro...etc
+>identificar faixa de preço de compra e venda
+
+
+
+
+>>>premissas inventadas do cliente:
+deve se restringir a apenas uma cidade, devido ao custo do transporte entre cidades
+deve ter um investimento máximo de 2 milhoes
+4 investimentos moderados e 1 de alto risco
